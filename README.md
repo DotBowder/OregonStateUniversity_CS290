@@ -1,2 +1,2 @@
 # OregonStateUniversity_CS290
-Files Pertaining to Oregon State University's CS290 Course
+Files Pertaining to Oregon State University's CS290 Course Written by Daniel Bowder
